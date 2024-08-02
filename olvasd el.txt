@@ -1,0 +1,5 @@
+kapcsold ki a felhőket és ha akarod rakj be egy shadert vagy resource packet aminek lehetőleg lehet felhő mentes ege
+
+A %appdata%\.minecraft mappán belül keresd meg a mods mappát és oda rakd be a modokat
+
+az 1.20.1 forge ot meg úgy csináld mint a hack clientemet VAGY töltsd le 1.20.1 forge-ot de az enyém jobb
